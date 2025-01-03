@@ -6,7 +6,7 @@ function openModal(e) {
 
 
     const link = document.createElement('a')
-    link.href = '/sofa.html'
+    link.href = 'sofa.html'
     const img = document.createElement('img')
     img.src = e.src
     img.classList.add('modalImage')
