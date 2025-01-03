@@ -36,7 +36,7 @@ img {
 }
 
 .images-container {
-    width: 50px;
+    width: 300px;
     cursor: pointer;
     transition: all 350ms ease;
 }
@@ -68,7 +68,7 @@ img {
 }
 
 .modalImage {
-    width: 50px;
+    width: 300px;
 }
 
 .modalImage:hover {
@@ -76,6 +76,6 @@ img {
 }
 
 .p {
-    font-size: 5px;
+    font-size: 20px;
     font-weight: 100;
 }
